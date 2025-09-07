@@ -14,21 +14,21 @@ Using image processing and machine learning, the system detects prolonged eye cl
 
 
 # Technologies Used
-Python – Core programming language
-OpenCV (cv2) – Real-time video capture, image processing, and visual overlays
-MediaPipe – Face mesh landmark detection (eyes, mouth, nose, chin)
-winsound – Generates audible alerts on Windows systems
-CSV – Logs drowsiness/yawn events with timestamps
-OS – File operations and log handling
-Datetime – For timestamping alert logs and screenshots
-Math & Time – For geometric calculations (EAR, MAR) and duration tracking
+- Python – Core programming language
+- OpenCV (cv2) – Real-time video capture, image processing, and visual overlays
+- MediaPipe – Face mesh landmark detection (eyes, mouth, nose, chin)
+- winsound – Generates audible alerts on Windows systems
+- CSV – Logs drowsiness/yawn events with timestamps
+- OS – File operations and log handling
+- Datetime – For timestamping alert logs and screenshots
+- Math & Time – For geometric calculations (EAR, MAR) and duration tracking
 
 
 # Key Concepts
-Eye Aspect Ratio (EAR) – Detects prolonged eye closure
-Mouth Aspect Ratio (MAR) – Detects yawning and fatigue
-Face Mesh Landmarks – Accurate detection of eyes, mouth, and head position
-Real-Time Monitoring – Continuous video analysis via webcam
-Alert System – Beep sound, visual warning, log entry, and screenshots
-Real-Time Monitoring – Continuous video analysis via webcam
-Alert System – Beep sound, visual warning, log entry, and screenshots
+- Eye Aspect Ratio (EAR) – Detects prolonged eye closure
+- Mouth Aspect Ratio (MAR) – Detects yawning and fatigue
+- Face Mesh Landmarks – Accurate detection of eyes, mouth, and head position
+- Real-Time Monitoring – Continuous video analysis via webcam
+- Alert System – Beep sound, visual warning, log entry, and screenshots
+- Real-Time Monitoring – Continuous video analysis via webcam
+- Alert System – Beep sound, visual warning, log entry, and screenshots
